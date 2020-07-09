@@ -16,3 +16,5 @@ Optional:
 Transform with ifft patch the matrix into sound.
 Change qmetro speed. 
 Render video!
+
+Algorithm of conversion from audio into matrix from -> https://www.jeanfrancoischarles.com/ (Check his website)
