@@ -450,8 +450,8 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 779.0, 19.5, 153.0, 382.0 ],
-					"text" : "Instructions:\n1. Click on bang to load encoder vst (multi encoder IEM)\n\n2. Load preset virtual space.\n\n3. Click on band to load decoder vst (binaural decoder IEM).\n\n(Link for download https://plugins.iem.at/)\n\n4. set delay time in milliseconds\n\n5. trigger mc-amplitudepanning.\n\n\nEvery time you create a new object mc.delay resets and envelope gets triggered.\nRemember to close gate~ at end of envelope."
+					"patching_rect" : [ 779.0, 19.5, 157.0, 382.0 ],
+					"text" : "Instructions:\n1. Click on bang to load encoder vst (multi encoder IEM)\n\n2. Load preset virtual space. (dac has to be on)\n\n3. Click on band to load decoder vst (binaural decoder IEM).\n\n(Link for download https://plugins.iem.at/)\n\n4. set delay time in milliseconds\n\n5. trigger mc-amplitudepanning.\n\n\nEvery time you create a new object mc.delay resets and envelope gets triggered.\nRemember to close gate~ at end of envelope."
 				}
 
 			}
