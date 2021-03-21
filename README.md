@@ -1,4 +1,4 @@
-# mc-amplitudepanning-max
+# amplitudepanning for multichannelsystems 
 Did this for an exam. 
 Maybe it helps.
 
